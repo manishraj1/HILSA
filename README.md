@@ -5,7 +5,11 @@ questions about getting more out of sampled chain-of-thought reasoning. Every cl
 pre-registered, every number carries a bootstrap confidence interval, and all data and
 code are included so the results can be re-run end to end.
 
-**Full writeup:** [`experiments/keystone/REPORT.md`](experiments/keystone/REPORT.md)
+| Status | Link |
+| :--- | :--- |
+| **Journal Track** | 📥 Under Review at **TMLR** (Transactions on Machine Learning Research) |
+| **Preprint & Citation** | 📑 [ResearchGate Publication](https://www.researchgate.net/publication/407307300_The_Verification_Ceiling_and_the_Gating_Frontier_Inference-Time_Selection_and_Adaptive_Compute_on_a_15B_Model) |
+| **Full Report** | 📝 [`experiments/keystone/REPORT.md`](experiments/keystone/REPORT.md) |
 
 ## Summary
 
@@ -71,3 +75,5 @@ verifiers tested are the cheap, honest class; heavier methods (large-K sampling,
 process/step verifiers, fully trained reward models) were not tested. The negative result
 is specific to this regime and does not claim no verifier can ever win. See
 [`REPORT.md`](experiments/keystone/REPORT.md) for full limitations and citations.
+##
+**Empirical evaluation and codebase produced by Manish Raj Vangari.**
