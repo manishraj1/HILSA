@@ -5,11 +5,8 @@ questions about getting more out of sampled chain-of-thought reasoning. Every cl
 pre-registered, every number carries a bootstrap confidence interval, and all data and
 code are included so the results can be re-run end to end.
 
-| Status | Link |
-| :--- | :--- |
-| **Journal Track** | 📥 Under Review at **TMLR** (Transactions on Machine Learning Research) |
-| **Preprint & Citation** | 📑 [ResearchGate Publication](https://www.researchgate.net/publication/407307300_The_Verification_Ceiling_and_the_Gating_Frontier_Inference-Time_Selection_and_Adaptive_Compute_on_a_15B_Model) |
-| **Full Report** | 📝 [`experiments/keystone/REPORT.md`](experiments/keystone/REPORT.md) |
+
+**Full Report** | 📝 [`experiments/keystone/REPORT.md`](experiments/keystone/REPORT.md)
 
 ## Summary
 
