@@ -75,5 +75,3 @@ verifiers tested are the cheap, honest class; heavier methods (large-K sampling,
 process/step verifiers, fully trained reward models) were not tested. The negative result
 is specific to this regime and does not claim no verifier can ever win. See
 [`REPORT.md`](experiments/keystone/REPORT.md) for full limitations and citations.
-##
-**Empirical evaluation and codebase produced by Manish Raj Vangari.**
